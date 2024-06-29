@@ -1,9 +1,0 @@
-tensorflow
-keras
-streamlit
-opencv-python
-pandas
-matplotlib
-numpy
-pillow
-json
