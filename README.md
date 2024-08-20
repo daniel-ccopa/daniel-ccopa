@@ -61,7 +61,7 @@ Repositorio: [Enlace al repositorio]
 
 <!--- <h1 align="center">Hi 👋, I'm Rasul Pirsoltanov</h1>--->
 <div align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Source+Code+Pro&weight=500&size=25&pause=1000&color=1CFF11&background=FF19D300&center=true&multiline=true&width=434&height=87&lines=Hi+my+name+is+Rasul.;I+am+a+fullstack+developer." alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Source+Code+Pro&weight=500&size=25&pause=1000&color=1CFF11&background=FF19D300&center=true&multiline=true&width=434&height=87&lines=Hi+my+name+is+DaniDev.;I+am+a+fullstack+developer." alt="Typing SVG" /></a>
 
 ###
 
@@ -72,7 +72,7 @@ Repositorio: [Enlace al repositorio]
 </picture>
 
 
-  # 📫 My Email Address: **resulresull510@gmail.com**
+  # 📫 My Email Address: **danielccopa76@gmail.com**
 
  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&pause=1000&color=F7EE27&random=false&width=700&lines=%E2%9A%A1+The+code+is+like+a+joke.+It's+bad+if+you+have+to+explain.)](https://git.io/typing-svg)
 
@@ -122,13 +122,13 @@ Repositorio: [Enlace al repositorio]
 ###
 
 <div align="left">
-  <a href="https://www.instagram.com/rasul_prsltv/" target="_blank">
+  <a href="https://www.instagram.com/daniel_ccopa1/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
-  <a href="resulresull510@gmail.com" target="_blank">
+  <a href="danierlccopa76@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
-  <a href="https://www.linkedin.com/in/rasul-pirsoltanov-a6831722b/" target="_blank">
+  <a href="https://www.linkedin.com/in/daniel-ccopa-b905402a7/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
 </div>
