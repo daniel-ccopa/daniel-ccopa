@@ -1,3 +1,7 @@
+<p align="center">
+<img src="https://media.licdn.com/dms/image/v2/D4E16AQGG3YhQFIVOYg/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1724786626380?e=1775088000&v=beta&t=Mj2IjuGdtIv60jfaIzfnIx-HQCL0OCVBM3lQNRR0y_0" />
+</p>
+
 <h1 align="center">Hi 👋, I'm Cristian Ccopa</h1>
 <h3 align="center">Data Science Student | AI & Machine Learning Enthusiast</h3>
 
@@ -54,6 +58,8 @@ I am also a member of **Google Developer Groups (GDG)** and interested in buildi
 ---
 
 ## 📊 GitHub Stats
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=daniel-ccopa&theme=onedark)](https://git.io/streak-stats)
 
 <p align="center">
 
