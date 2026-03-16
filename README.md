@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Daniel Ccopa</h1>
+<h1 align="center">Hi 👋, I'm Cristian Ccopa</h1>
 <h3 align="center">Data Science Student | AI & Machine Learning Enthusiast</h3>
 
 <p align="center">
@@ -75,7 +75,7 @@ I am also a member of **Google Developer Groups (GDG)** and interested in buildi
 
 <p>
 
-<a href="https://www.linkedin.com/in/daniel-ccopa-b905402a7/">
+<a href="https://www.linkedin.com/in/cristian-daniel-ccopa-acero">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
